@@ -75,10 +75,10 @@ https://github.com/user-attachments/assets/acc7a6d7-8e76-4ab6-93bf-32514a329d9e
 
 
 - 🔹 Adicionar funcionalidade para não sortear a se mesmo.
-- 🔹 Exibir o resultado final com os arquivos em um banco de dados de quem tirou quem no sorteio.
-- 🔹 Excluir o resultado automaticamente para sortear o próximo amigo
-- 🔹 Implementar uma versão com backend para armazenamento de sorteios.
+- 🔹 Salvar e mostrar os resultados do sorteio em um banco de dados.
+- 🔹 Compartilhar o resultado do sorteio nas redes sociais
 - 🔹 Design responsivo para melhor usabilidade em dispositivos móveis. 
+
 
 
 
