@@ -1,6 +1,6 @@
 
 
-# 🎉 Jogo Amigo Secreto! 🕹️🔍
+# 🎉 Jogo Amigo Secreto! 🕹️
 
 ![Imagem do Projeto](https://drive.google.com/uc?id=19YaImkFEXi2gh22NNCV49mAA6hjI7T_8)
 
@@ -38,23 +38,13 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 📁 Acesso ao Projeto
+## 📁 Como executar o projeto
 
-Você pode acessar o projeto online clicando no link abaixo:
-
-🔗 [Jogo Amigo Secreto - Teste a Aplicação Aqui](#)
-
-Ou, caso queira rodá-lo localmente:
 
 1. Clone este repositório:
    ```bash
    git clone https:https://github.com/C4rolanne/challenge-amigo-secreto-One-G8.git
    ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd amigo-secreto
-   ```
-3. Abra o arquivo `index.html` no navegador.
 
 ---
 
