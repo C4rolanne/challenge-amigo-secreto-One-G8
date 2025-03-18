@@ -37,6 +37,12 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - 📌 **Canvas API** - (via canvas-confetti.js) para a animação de confetes na tela
 
 ---
+## 🎥 Demonstração do Projeto
+
+https://github.com/user-attachments/assets/acc7a6d7-8e76-4ab6-93bf-32514a329d9e
+
+
+---
 
 ## 📁 Como executar o projeto
 
@@ -45,19 +51,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
    ```bash
    git clone https:https://github.com/C4rolanne/challenge-amigo-secreto-One-G8.git
    ```
-
----
-
-## 🎥 Demonstração do Projeto
-
-
-
-
-https://github.com/user-attachments/assets/acc7a6d7-8e76-4ab6-93bf-32514a329d9e
-
-
-
-
 
 ---
 
