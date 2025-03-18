@@ -58,9 +58,9 @@ Ou, caso queira rodá-lo localmente:
 
 ---
 
-## 📷 Capturas de Tela
+## 🎥 Demonstração do Projeto
 
-[📸 Clique aqui para visualizar as capturas de tela](https://drive.google.com/file/d/1jn1KCKyowlHrg0UwpzoC0N7TyU87_y1a/view?usp=sharing)
+[![Assista ao vídeo](https://i.imgur.com/placeholder.jpg)](https://vimeo.com/1066816239?share=copy)
 
 ---
 
@@ -86,8 +86,6 @@ Ou, caso queira rodá-lo localmente:
 
 ---
 
-## ✏️ Autor
 
-Criado por **[Seu Nome](https://github.com/seu-usuario)**. Sinta-se à vontade para contribuir e melhorar o projeto! 😊
 
 
