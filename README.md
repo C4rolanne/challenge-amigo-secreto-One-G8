@@ -27,7 +27,7 @@ Basta adicionar os nomes, clicar no botão e deixar a mágica acontecer! ✨
 
 ---
 
-## ✔️ Técnicas e Tecnologias Utilizadas
+## ✔️ Tecnologias Utilizadas
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
