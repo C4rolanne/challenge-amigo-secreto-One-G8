@@ -62,7 +62,11 @@ Ou, caso queira rodá-lo localmente:
 
 
 
-https://github.com/user-attachments/assets/a67ff54d-8079-4693-8071-e14a70a3b070
+
+https://github.com/user-attachments/assets/acc7a6d7-8e76-4ab6-93bf-32514a329d9e
+
+
+
 
 
 ---
