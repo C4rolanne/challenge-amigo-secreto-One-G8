@@ -46,6 +46,9 @@ https://github.com/user-attachments/assets/acc7a6d7-8e76-4ab6-93bf-32514a329d9e
 
 ## 📁 Como executar o projeto
 
+🔗 [Jogo Amigo Secreto - Teste a Aplicação Aqui](https://seu-link-do-deploy.com)
+
+Ou, caso queira rodá-lo localmente:
 
 1. Clone este repositório:
    ```bash
