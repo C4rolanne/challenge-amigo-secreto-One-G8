@@ -5,7 +5,7 @@
 ![Imagem do Projeto](https://drive.google.com/uc?id=19YaImkFEXi2gh22NNCV49mAA6hjI7T_8)
 
 
-🎉 Bem-vindo ao Amigo Secreto Interativo!
+🎉 Bem-vindo ao Amigo Secreto!
 Este projeto faz parte do desafio do programa Oracle Next Education (ONE-G8) e tem como objetivo proporcionar uma experiência simples e dinâmica para a realização de sorteios de amigo secreto.
 Basta adicionar os nomes, clicar no botão e deixar a mágica acontecer! ✨
 
