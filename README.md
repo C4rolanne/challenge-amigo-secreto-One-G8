@@ -60,7 +60,10 @@ Ou, caso queira rodá-lo localmente:
 
 ## 🎥 Demonstração do Projeto
 
-[![Assista ao vídeo](https://i.imgur.com/placeholder.jpg)](https://vimeo.com/1066816239?share=copy)
+
+
+https://github.com/user-attachments/assets/a67ff54d-8079-4693-8071-e14a70a3b070
+
 
 ---
 
