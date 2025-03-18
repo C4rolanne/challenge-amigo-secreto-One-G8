@@ -4,8 +4,15 @@
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
-    --color-text: #444444;
+    --color-text: #161616;
     --color-white: #FFFFFF;
+}
+
+
+
+.placeholder {
+    position: absolute;
+    top:10px;
 }
 
 /* Estilos gerais */
@@ -21,6 +28,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 .main-content {
@@ -31,13 +39,35 @@ body {
 }
 
 /* Banner */
-.header-banner {
+.header-banner  {
     flex: 40%;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 40px 0 0;
+    
+
 }
+
+.imagem-flutuante {
+    width: 500px; 
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+    animation: flutuar 3s infinite ease-in-out;
+}
+@keyframes flutuar {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-15px);
+    }
+    100% {
+        transform: translateY(0);
+    } 
+}
+
 
 /* Seção de entrada */
 .input-section {
@@ -136,7 +166,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #111d02;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -160,3 +190,4 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
