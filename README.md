@@ -1,6 +1,6 @@
 
 
-# 🎉 Jogo Amigo Secreto! 🕹️
+# 🎉 Sorteio Amigo Secreto! 🕹️
 
 ![Imagem do Projeto](https://drive.google.com/uc?id=19YaImkFEXi2gh22NNCV49mAA6hjI7T_8)
 
