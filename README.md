@@ -70,10 +70,15 @@ Ou, caso queira rodá-lo localmente:
 
 ---
 
-## 📄 Contato
+## 🏆 Badge de Conclusão
+
+![Badge](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
 
 📧 **GitHub:** [C4rolanne](https://github.com/C4rolanne)  
 🔗 **LinkedIn:** [Carolinemdss](https://www.linkedin.com/in/carolinemdss/)
+
+
+
 
 
 
